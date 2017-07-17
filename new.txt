@@ -9,5 +9,6 @@ class Hi{
 			System.out.println("ha!");
 
 		}
+		System.out.println("push");
 	}
 }
