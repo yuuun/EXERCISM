@@ -6,4 +6,3 @@ def reverse(input=''):
     for ch in a:
         b += ch
     return b
-    pass
